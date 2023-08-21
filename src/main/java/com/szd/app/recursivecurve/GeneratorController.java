@@ -1,4 +1,4 @@
-package com.app.szd.recursivecurve;
+package com.szd.app.recursivecurve;
 
 import javafx.fxml.FXML;
 import javafx.scene.canvas.Canvas;
@@ -6,7 +6,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.TextField;
 
-import static com.app.szd.recursivecurve.CurveType.KOCH_SNOWFLAKE;
+import static com.szd.app.recursivecurve.CurveType.KOCH_SNOWFLAKE;
 
 public class GeneratorController {
     @FXML

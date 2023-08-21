@@ -1,8 +1,8 @@
-module com.app.szd.recursivecurve {
+module com.szd.app.recursivecurve {
     requires javafx.controls;
     requires javafx.fxml;
             
                             
-    opens com.app.szd.recursivecurve to javafx.fxml;
-    exports com.app.szd.recursivecurve;
+    opens com.szd.app.recursivecurve to javafx.fxml;
+    exports com.szd.app.recursivecurve;
 }

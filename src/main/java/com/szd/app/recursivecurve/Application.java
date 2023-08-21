@@ -1,4 +1,4 @@
-package com.app.szd.recursivecurve;
+package com.szd.app.recursivecurve;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

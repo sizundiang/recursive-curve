@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.*?>
 <?import java.lang.*?>
 <VBox alignment="BASELINE_CENTER" xmlns:fx="http://javafx.com/fxml"
-      fx:controller="com.app.szd.recursivecurve.GeneratorController">
+      fx:controller="com.szd.app.recursivecurve.GeneratorController">
 
     <fx:define>
         <Integer fx:id="canvasWidth" fx:value="400"/>

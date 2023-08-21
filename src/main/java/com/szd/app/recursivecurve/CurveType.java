@@ -1,4 +1,4 @@
-package com.app.szd.recursivecurve;
+package com.szd.app.recursivecurve;
 
 public enum CurveType {
     KOCH_SNOWFLAKE, HILBERT, SIERPINSKI;
